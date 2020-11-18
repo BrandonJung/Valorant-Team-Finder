@@ -4,7 +4,7 @@ from pathlib import Path
 import pickle
 import sys
 
-# List of accounts
+# List of accounts :)
 accounts = []
 # Difference in divisions you can party with
 partyDifference = 3
